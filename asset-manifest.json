@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/edify-projects/static/css/main.073c9b0a.css",
+    "main.js": "/edify-projects/static/js/main.64846667.js",
+    "static/media/fulldashboard.png": "/edify-projects/static/media/fulldashboard.12f7e751f2d6b6345d76.png",
+    "static/media/pathstable.png": "/edify-projects/static/media/pathstable.12aa9f5543b1abd64b6a.png",
+    "static/media/menubuttons.png": "/edify-projects/static/media/menubuttons.232d8be40baaeeb667c1.png",
+    "static/media/pathlibrary.png": "/edify-projects/static/media/pathlibrary.9113c67461f3a7310bc2.png",
+    "static/media/learnercard.png": "/edify-projects/static/media/learnercard.610562c034d9d7bd0adc.png",
+    "index.html": "/edify-projects/index.html",
+    "main.073c9b0a.css.map": "/edify-projects/static/css/main.073c9b0a.css.map",
+    "main.64846667.js.map": "/edify-projects/static/js/main.64846667.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.64846667.js"
+  ]
+}
